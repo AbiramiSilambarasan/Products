@@ -1,0 +1,7 @@
+com\e2e\products\controller\RestApiController.class
+com\e2e\products\service\ProductsService.class
+com\e2e\products\model\ResponseProductsPojo.class
+com\e2e\products\model\ProductsObjPojo$1.class
+com\e2e\products\model\ColorSwatchesPojo.class
+com\e2e\products\model\ProductsObjPojo.class
+com\e2e\products\RestApiApp.class
